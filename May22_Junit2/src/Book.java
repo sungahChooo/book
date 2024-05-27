@@ -7,7 +7,6 @@ public class Book {
 	private int outYear;
 
 	public Book() {
-		// TODO Auto-generated constructor stub
 	}
 	
 	public Book(int id, String title, String author, int outYear) {
